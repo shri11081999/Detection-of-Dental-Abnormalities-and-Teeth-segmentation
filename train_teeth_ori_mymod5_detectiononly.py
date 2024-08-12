@@ -36,7 +36,7 @@ import gc
 # Radiograph transforms -- extra transforms to apply to radiograph tensor
 # mask_transform -- extra transforms to apply to mask tensor 
 class MaskDataset(Dataset):
-  def __init__(self, radiograph_transform = None, mask_transform = None, path = 'C:/Users/inshdi/OneDrive - Waters Corporation/Desktop/tuft dental database/'):
+  def __init__(self, radiograph_transform = None, mask_transform = None, path = 'C:/Users/__/tuft dental database/'):
     if radiograph_transform is not None: 
       self.radiograph_transform = transforms.Compose([
            transforms.ToTensor(),
