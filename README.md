@@ -52,9 +52,9 @@ Feel free to make any changes in the project.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
+![teeth1](https://github.com/user-attachments/assets/a0005ca6-eb9b-4686-a0fc-a88420372d3e)        ![teeth2](https://github.com/user-attachments/assets/a59dfa6b-bbf0-447f-a59a-132111f320bc)       
+![teeth3](https://github.com/user-attachments/assets/3fde82c2-8456-4c97-8259-4efb076fe10f)
+ 
 ## Results
 
 * **Teeth Segmentation**: Achieved state-of-the-art results with ResNet-50 and DeepLabV3, attaining 95% accuracy, 73% F1-score, and 92% IOU.
