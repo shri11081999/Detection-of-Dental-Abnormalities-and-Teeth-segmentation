@@ -48,7 +48,7 @@ We utilized the **Tufts Dental Dataset (TDD)**, released in April 2022, which in
    - TensorFlow, PyTorch, Keras
    - OpenCV or scikit-image for image preprocessing
    - Visual Studio as the IDE
-   - 
+     
 3. **Download the Dataset:**
 
    Acquire the TDD dataset and place it in the `teeth database/` directory.
